@@ -14,6 +14,7 @@ Please be aware that, the HealthyLiving website is not fully responsive. This me
 - [Yoga](#yoga)
 - [Music](#music)
 - [Blogs](#blogs)
+- [Usage](#Usage)
 
 ## Home
 
