@@ -21,6 +21,10 @@ Please be aware that, the HealthyLiving website is not fully responsive. This me
 The Home page serves as the main landing page for the HealthyLiving website. It provides information about the purpose of the website and extends a warm welcome to visitors, including our special guest, Sunita.
 
 ![home](https://github.com/vedant185raut/Healthcare-Kratin/assets/105361526/1f0b0b98-fc17-4dd6-813f-7c5dc454489d)
+![home1](https://github.com/vedant185raut/Healthcare-Kratin/assets/105361526/2057918f-e6a5-4501-96da-2b1a09b3a3cd)
+![home2](https://github.com/vedant185raut/Healthcare-Kratin/assets/105361526/3d5101f1-25b2-45a3-820b-6bd141f5cc81)
+![home3](https://github.com/vedant185raut/Healthcare-Kratin/assets/105361526/32790a71-e07f-4c0a-8dc9-4171fa1cee98)
+![home4](https://github.com/vedant185raut/Healthcare-Kratin/assets/105361526/4827759c-02d0-4f2b-aacc-19ddea7a4550)
 
 ## Food
 
