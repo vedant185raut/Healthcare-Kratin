@@ -1,4 +1,4 @@
-![exercise](https://github.com/vedant185raut/Healthcare-Kratin/assets/105361526/ce879e86-e3cd-4827-aaab-8461537ae335)# HealthyLiving Website
+# HealthyLiving Website
 
 Welcome to the HealthyLiving project, a website dedicated to promoting a healthy lifestyle. This project covers various aspects of well-being, including the importance of a balanced diet, the benefits of exercise, the significance of yoga, the impact of music on the mind, and a collection of health-related blogs.
 
