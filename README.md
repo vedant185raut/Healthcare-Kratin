@@ -23,8 +23,8 @@ The Home page serves as the main landing page for the HealthyLiving website. It 
 ![home](https://github.com/vedant185raut/Healthcare-Kratin/assets/105361526/1f0b0b98-fc17-4dd6-813f-7c5dc454489d)
 ![home1](https://github.com/vedant185raut/Healthcare-Kratin/assets/105361526/2057918f-e6a5-4501-96da-2b1a09b3a3cd)
 ![home2](https://github.com/vedant185raut/Healthcare-Kratin/assets/105361526/3d5101f1-25b2-45a3-820b-6bd141f5cc81)
-![home3](https://github.com/vedant185raut/Healthcare-Kratin/assets/105361526/32790a71-e07f-4c0a-8dc9-4171fa1cee98)
-![home4](https://github.com/vedant185raut/Healthcare-Kratin/assets/105361526/4827759c-02d0-4f2b-aacc-19ddea7a4550)
+![home3](https://github.com/vedant185raut/Healthcare-Kratin/assets/105361526/a02964ca-b393-4268-a0a8-72fdc751ff50)
+![home4](https://github.com/vedant185raut/Healthcare-Kratin/assets/105361526/ba1616b9-3b65-4f04-8eed-5d8e4cfc83f1)
 
 ## Food
 
